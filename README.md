@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Jules, a passionate-novice developer from France.</br>
+- Hi, I'm Jules, a passionate-novice developer from France.</br>
 I'm 18.</br>
 I'm currently learning C++ and C# for school projects and JS for personal projects.</br>
 I haven't published any projects on GitHub yet, but come again in the future ! </br>
