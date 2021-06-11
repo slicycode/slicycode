@@ -12,4 +12,6 @@ Neidra : https://github.com/Adrien222 </br>
 Topi : https://github.com/T0pii </br>
 </br>
 ### A few stats :</br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slicycode&show_icons=true&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slicycode&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slicycode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
