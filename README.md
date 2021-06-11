@@ -5,8 +5,7 @@
 ~ I'm 18.</br>
 </br>
 ~ I'm currently learning C++ and C# for school projects and JS for personal projects.</br>
-</br>
-~ I haven't published any projects on GitHub yet, but come again in the future ! </br>
+I haven't published any projects on GitHub yet, but come again in the future ! </br>
 </br>
 ~ Check those guys, they're cool :</br>
 Neidra : https://github.com/Adrien222= </br>
