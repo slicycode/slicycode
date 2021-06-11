@@ -10,4 +10,4 @@ Topi : https://github.com/T0pii </br>
 </br>
 </br>
 **A few stats :** </br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slicycode)](https://github.com/anuraghazra/github-readme-stats)
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slicycode)](https://github.com/anuraghazra/github-readme-stats)
