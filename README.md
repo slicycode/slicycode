@@ -13,3 +13,4 @@ Topi : https://github.com/T0pii </br>
 </br>
 ### A few stats :</br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slicycode&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
