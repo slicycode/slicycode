@@ -4,7 +4,7 @@
 </br>
 ~ I'm 18.</br>
 </br>
-~ I'm currently learning C++ and C# for school projects and JS for personal projects.</br>
+~ I'm currently learning C++ and Java for school projects and JS with React.JS for personal projects.</br>
 I haven't published any projects on GitHub yet, but come again in the future ! </br>
 </br>
 ~ Check those guys, they're cool :</br>
