@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-~ I'm Jules, a passionate-novice developer from France.</br>
+~ I'm Jules, a passionate-junior web developer from France.</br>
 </br>
-~ I'm 18.</br>
+~ I'm 19.</br>
 </br>
 ~ I'm currently learning C++ and Java for school projects and JS with React.JS for personal projects.</br>
 I haven't published any projects on GitHub yet, but come again in the future ! </br>
