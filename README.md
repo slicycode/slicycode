@@ -5,7 +5,6 @@
 ~ I'm 19.</br>
 </br>
 ~ I'm currently learning C++ and Java for school projects but I mostly code in JavaScript with Reactjs / React Native for personal projects.</br>
-I haven't published any projects on GitHub yet, but come again in the future ! </br>
 </br>
 ~ Check those guys, they're cool :</br>
 Neidra : https://github.com/Adrien222 </br>
