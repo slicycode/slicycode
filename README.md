@@ -4,7 +4,7 @@
 </br>
 ~ I'm 19.</br>
 </br>
-~ I mainly code with JavaScript in React for personal projects.</br>
+~ I mainly code in JavaScript with React for personal projects.</br>
 </br>
 ~ Check those guys, they're cool :</br>
 Neidra : https://github.com/Adrien222 </br>
