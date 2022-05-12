@@ -1,4 +1,4 @@
-## Hi there 👋 ![](https://komarev.com/ghpvc/?username=slicycode&color=green)
+## Hi there 👋
 
 ~ I'm Jules, a passionate-junior web developer from France.</br>
 </br>
