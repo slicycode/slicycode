@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-~ I'm Jules, a passionate-junior web developer from France.</br>
+~ I'm Jules, a passionate web developer from France.</br>
 </br>
 ~ I'm 20.</br>
 </br>
