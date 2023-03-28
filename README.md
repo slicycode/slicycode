@@ -4,7 +4,7 @@
 </br>
 ~ I'm 20.</br>
 </br>
-~ I mainly code in JavaScript with React or Next.js as frontend frameworks.</br>
+~ I mainly code in TypeScript with React or Next.js as frontend and full-stack frameworks.</br>
 </br>
 ~ Check those guys, they're cool :</br>
 Neidra : https://github.com/Adrien222 </br>
