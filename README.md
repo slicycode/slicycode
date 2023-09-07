@@ -2,11 +2,9 @@
 
 ~ I'm Jules, a passionate web developer from France.</br>
 </br>
-~ I'm 20.</br>
-</br>
 ~ I mainly code in TypeScript with React or Next.js as frontend and full-stack frameworks.</br>
 </br>
-~ Check those guys, they're cool :</br>
+~ Check those guys, they're cool:</br>
 Neidra : https://github.com/Adrien222 </br>
 Topi : https://github.com/T0pii </br>
 </br>
